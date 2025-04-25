@@ -1,0 +1,12 @@
+artifact_location: file:///d:/Christ/Machine%20Learning/Machine-Learning/ml_flow/mlruns/405967382179153048
+creation_time: 1745573719900
+experiment_id: '405967382179153048'
+last_update_time: 1745578172160
+lifecycle_stage: active
+name: renamed-experiment
+tags:
+  new-tag: new-tag-value
+  new-tag-2: new-tag-value-2
+  new-tag-3: new-tag-value-3
+  topic: experiment-management
+  version: v1
