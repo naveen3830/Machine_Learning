@@ -14,5 +14,6 @@ class Main():
         async def root():
             return {"message":"The app is up and running"}
         
+        
 main_app=Main()
 app=main_app.app
